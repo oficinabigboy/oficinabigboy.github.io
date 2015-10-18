@@ -54,7 +54,7 @@ body{
 }
 
 h1, h2, h3, h4, h5 ,h6{
-    color:   rgba(25, 24, 23, 1);
+    color: #000;
     font-family: "lato-regular", Helvetica, Arial, sans-serif;
     letter-spacing: 1px;
 }
